@@ -9,6 +9,7 @@ Long-form interview-prep cheat sheets, written in Markdown and rendered to singl
 | Tutorial | MD | HTML | Topics |
 |---|---|---|---|
 | **Attention 面试 Cheat Sheet** | [md](attention_tutorial.md) | [html](https://wanshuiyin.github.io/Auto-claude-code-research-in-sleep/tutorials/attention_tutorial.html) | Scaled-dot-product, MHA / MQA / GQA, RoPE / ALiBi, FlashAttention, KV cache, attention in diffusion, NaN-mask trap |
+| **KL Divergence in RLHF** | [md](kl_divergence_rlhf_tutorial.md) | [html](https://wanshuiyin.github.io/Auto-claude-code-research-in-sleep/tutorials/kl_divergence_rlhf_tutorial.html) | k1/k2/k3 estimators · forward vs reverse KL · KL in PPO/GRPO/DPO · placement gradient bias · "Rethinking KL" + "Comedy of Estimators" |
 
 ### 🎯 Post-Training & Reasoning
 
@@ -16,7 +17,6 @@ Long-form interview-prep cheat sheets, written in Markdown and rendered to singl
 |---|---|---|---|
 | **RLHF / DPO / GRPO / PPO** | [md](rlhf_dpo_grpo_ppo_tutorial.md) | [html](https://wanshuiyin.github.io/Auto-claude-code-research-in-sleep/tutorials/rlhf_dpo_grpo_ppo_tutorial.html) | PPO clip + GAE · RLHF pipeline · DPO closed-form from BT · GRPO group-relative · KTO/IPO/SimPO/ORPO · PRM vs ORM · Constitutional AI |
 | **Reasoning Models (o1 / R1 / Test-Time Compute / PRM)** | [md](reasoning_models_tutorial.md) | [html](https://wanshuiyin.github.io/Auto-claude-code-research-in-sleep/tutorials/reasoning_models_tutorial.html) | o1/o3/R1 three-way comparison · GRPO derivation · PRM vs ORM · s1 budget forcing · MCTS+PUCT · R1-Distill |
-| **KL Divergence in RLHF** | [md](kl_divergence_rlhf_tutorial.md) | [html](https://wanshuiyin.github.io/Auto-claude-code-research-in-sleep/tutorials/kl_divergence_rlhf_tutorial.html) | k1/k2/k3 estimators · forward vs reverse KL · KL in PPO/GRPO/DPO · placement gradient bias · "Rethinking KL" + "Comedy of Estimators" |
 | **LLM On-Policy Distillation (OPD)** | [md](llm_opd_tutorial.md) | [html](https://wanshuiyin.github.io/Auto-claude-code-research-in-sleep/tutorials/llm_opd_tutorial.html) | Route A (full-vocab) vs Route B (REINFORCE/IS, Tinker default) · vOPD control variate · OPD+GRPO · MiniLLM / GKD / Qwen3 / Thinking Machines |
 
 ### 🏛️ LLM Architecture & Systems

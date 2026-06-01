@@ -12,15 +12,14 @@
 
 🌱 *ARIS is a methodology, not a platform. What matters is the research workflow — take it wherever you go.*
 
-🔥 *ARIS natively fits — and already supports — any agent's ultracode-style deep mode: its **breadth** pass adapts to whatever a runtime exposes — Claude Code's ultracode / dynamic workflows on Opus 4.8 (xhigh, or max effort if budget allows), Codex `spawn_agent` / equivalents, or another model entirely — degrading cleanly **parallel fan-out** → **agent spawn** → **plain sequential**.*
-*ultracode supplies firepower to the breadth half ARIS always had, giving three clean roles: **depth → breadth**, **cross-model review → accuracy**, **research wiki → memory**.*
-*However a loop is driven — ultracode breadth or goal-mode persistence — every loop reports to the same cross-model jury + research wiki: it can drive, never acquit.*
+🔥 *ARIS natively fits any agent's **ultracode-style deep mode** — the breadth/firepower pass adapts to the runtime (Claude Code ultracode + workflows on Opus 4.8, Codex `spawn_agent`, or plain sequential), feeding three roles: **breadth · cross-model review → accuracy · research wiki → memory**.*
+*However a loop is driven, it reports to the same cross-model jury + research wiki — **it can drive, never acquit**.*
 
 🤖 **AI agents:** Read [`AGENT_GUIDE.md`](AGENT_GUIDE.md) instead — structured for LLM consumption, not human browsing.
 
-🚀 **Beyond 科研 → 任何 "研究"**：[**ARIS-Anything**](https://github.com/wanshuiyin/ARIS-Anything) 把 ARIS 的五步 loop（plan / draft / 对抗审 / 迭代 / 持久化）推广到非学术的结构化研究——投资尽调 / 法律研究 / 市场研究 / 自驱学习 / 调查新闻 / 工程复盘等。**Incoming siblings**：🎬 [**ARIS-Movie**](https://github.com/wanshuiyin/ARIS-Anything#-incoming-siblings)（长视频生成 + movie wiki 对抗审）· 📐 **ARIS-PRD**（产品需求文档）· 🎨 **ARIS-Design**（设计 brief 对抗评审）· 🏋️ **ARIS-Gym**（skill 跑分 + OpenAI-Gym-for-research-agents 的 meta 评测层）。
+🚀 **Beyond 科研 → 任何 "研究"**：[**ARIS-Anything**](https://github.com/wanshuiyin/ARIS-Anything) 把 ARIS 的五步 loop（plan / draft / 对抗审 / 迭代 / 持久化）推广到非学术的结构化研究——投资尽调 / 法律研究 / 市场研究 / 自驱学习 / 调查新闻 / 工程复盘等。
 
-🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer 网页版**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [中文 README](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_CN.md) · 23 篇双语 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet 合集——每篇公式推导 + 从零 PyTorch 代码 + 25 高频面试题（L1 必会 / L2 进阶 / L3 顶级 lab），全部由 ARIS 的 `/render-html` workflow 自动生成。**🚀 Just shipped (2026-05)**：🌐 **ARIS-Homepage v1**（[`/homepage-generator` skill](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/skills/homepage-generator/SKILL.md)）—— **fact-check 你的简历再生成单文件个人主页**：CV → DBLP/arXiv 自动 audit venue/年份/作者，硬失败拦截 venue/年份不一致与疑似编造奖项 → 单文件 HTML。[Live demo →](https://wanshuiyin.github.io/) · **📝 Plus (2026-05-28)**：第一篇 long-form blog —— [Continuous DLM 2026 H1 综述](https://wanshuiyin.github.io/ARIS-in-AI-Offer/blogs/continuous_dlm_2026h1_survey.html)（6 篇论文：ELF / ByteDance Cola-DLM / Flow-Matching 全景对比），跨模型协作写成（Claude Opus 4.7 × Codex GPT-5.5 xhigh × Gemini auto-gemini-3）—— 展示 `/render-html` 能产出的 long-form 研究分析深度。 · **希望大家秋招的时候轻松一点 🌱**
+🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [中文 README](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_CN.md) —— 23 篇双语 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet，每篇 = 公式推导 + 从零 PyTorch + 25 高频面试题（L1 / L2 / L3），全部由 ARIS 的 `/render-html` 自动生成。**希望大家秋招轻松一点 🌱**
 
 <p align="center">
   <a href="https://github.com/wanshuiyin/ARIS-in-AI-Offer">

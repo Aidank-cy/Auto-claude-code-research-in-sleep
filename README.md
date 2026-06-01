@@ -51,6 +51,8 @@ cd claude-fleet && bash run.sh
 
 </details>
 
+🪟 **更轻的自家选择 · [ARIS-Monitor](aris-monitor/)** —— 不想开浏览器?ARIS 自带一个 macOS 置顶**悬浮小窗**(纯 Python stdlib,**无浏览器 · 无 Chrome 扩展**):只盯"**哪个会话在等你授权**" 🔴,点一行直接跳到那个终端。**Claude Fleet = 全功能网页看板;ARIS-Monitor = 同一想法的极简常驻版**,各取所需。
+
 🔥 [**ARIS-Code CLI — 独立安装版**](docs/ARIS-Code-README_CN.md) · [English](docs/ARIS-Code-README_EN.md) | [⬇️ Download](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/latest)
 
 <table>
